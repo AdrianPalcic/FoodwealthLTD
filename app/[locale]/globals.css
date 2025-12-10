@@ -45,6 +45,9 @@
 
 @layer utilities {
   .active {
-    @apply bg-white rounded-md shadow shadow-black;
+    @apply bg-white/50 rounded-md shadow shadow-black/30 font-semibold;
+  }
+  .font-josefin {
+    @apply font-josefin;
   }
 }
