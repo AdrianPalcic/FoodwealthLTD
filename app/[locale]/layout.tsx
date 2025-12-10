@@ -4,6 +4,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { routing } from "@/i18n/routing";
 import { notFound } from "next/navigation";
+import Footer from "@/components/Footer";
+import Navbar from "@/components/Navbar";
 
 export const metadata: Metadata = {
   title: "FoodWealth ltd ",
@@ -40,7 +42,11 @@ export default async function RootLayout({
         suppressHydrationWarning
         className={`${josefin.className} ${inter.className} antialiased`}
       >
-        <NextIntlClientProvider>{children}</NextIntlClientProvider>
+        <NextIntlClientProvider>
+          <Navbar />
+          {children}
+          <Footer />
+        </NextIntlClientProvider>
       </body>
     </html>
   );

@@ -1,5 +1,18 @@
 {
   "homepage": {
-    "title": "Mrs majmune"
+    "title": "Pozdrav FoodWealth"
+  },
+  "links": {
+    "navbar": {
+      "about": "O nama",
+      "contact": "Kontakt",
+      "products": "Proizvodi",
+      "recipes": "Recepti"
+    },
+    "infoLinks": {
+      "terms": "Uvjeti Korištenja",
+      "policy": "Politika Privatnosti",
+      "cookies": "Kolačići"
+    }
   }
 }

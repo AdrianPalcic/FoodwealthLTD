@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-:root {
+@theme {
   /* FONTS */
   --font-josefin: "Josefin Sans", sans-serif;
   --font-inter: "Inter", sans-serif;
@@ -40,5 +40,11 @@
     border-radius: 6px;
     cursor: pointer;
     transition: 0.3s ease-in-out;
+  }
+}
+
+@layer utilities {
+  .active {
+    @apply bg-white rounded-md shadow shadow-black;
   }
 }
