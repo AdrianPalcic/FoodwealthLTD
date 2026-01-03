@@ -58,3 +58,16 @@ export const HERO_CONTENT = [
     image: "/i9.png",
   },
 ];
+
+export const BRANDS = [
+  {
+    img: "/brand-vector.svg",
+    name: "Brand 1",
+    link: "brands/1",
+  },
+  {
+    img: "/brand-vector.svg",
+    name: "Brand 2",
+    link: "brands/1",
+  },
+];

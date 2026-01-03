@@ -16,6 +16,19 @@
       "title4": "Stvarajte inspirativna jela svaki dan",
       "subtitle4": "Istražite recepte u stilu profesionalnih chefova i izvucite maksimum iz svakog jela.",
       "cta4": "Istražite naše recepte"
+    },
+    "about": {
+      "tag": "O nama",
+      "title": "Naša priča",
+      "paragraph-1": "Osnovana 2012. godine, tvrtka Foodwealth d.o.o. bavi se proizvodnjom, uvozom, pakiranjem i distribucijom vrhunskog bilja, začina i kulinarskih proizvoda. Naša misija je spojiti kvalitetu i autentičnost te pružiti okuse koji ulijevaju povjerenje i obogaćuju svakodnevno kuhanje.",
+      "paragraph-2": "Opslužujemo maloprodajne lance, veletrgovce i ugostiteljske partnere diljem jugoistočne Europe, uključujući Grčku, Bugarsku i zemlje Balkana, donoseći autentične okuse i inovativne proizvode u kuhinje širom regije.",
+      "button": "Saznajte više"
+    },
+    "brands": {
+      "tag": "Brendovi",
+      "title": "Otkrijte naše brendove",
+      "paragraph": "Pouzdana imena iz cijelog svijeta, pažljivo odabrana zbog svoje kvalitete i autentičnosti.",
+      "button": "Istražite sve brendove"
     }
   },
   "links": {

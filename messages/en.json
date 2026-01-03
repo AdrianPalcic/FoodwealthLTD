@@ -13,6 +13,19 @@
       "title4": "Create Inspiring Meals Every Day",
       "subtitle4": "Explore chef-style recipes that bring out the best in every dish.",
       "cta4": "Explore our recipes"
+    },
+    "about": {
+      "tag": "About Us",
+      "title": "Our Story",
+      "paragraph-1": "Founded in 2012, Foodwealth Ltd produces, imports, packages, and distributes premium herbs, spices, and culinary products. Our mission is to combine quality with authenticity, delivering flavors that inspire trust and elevate everyday cooking.",
+      "paragraph-2": "We serve retailers, wholesalers, and foodservice providers across Southeastern Europe, including Greece, Bulgaria, and the Balkans, bringing authentic flavors and innovative products to kitchens everywhere.",
+      "button": "Read More"
+    },
+    "brands": {
+      "tag": "Brands",
+      "title": "Discover Our Brands",
+      "paragraph": "Trusted names from around the world, carefully selected for quality and authenticity.",
+      "button": "Explore All Brands"
     }
   },
   "links": {
