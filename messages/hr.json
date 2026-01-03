@@ -29,6 +29,27 @@
       "title": "Otkrijte naše brendove",
       "paragraph": "Pouzdana imena iz cijelog svijeta, pažljivo odabrana zbog svoje kvalitete i autentičnosti.",
       "button": "Istražite sve brendove"
+    },
+    "products": {
+      "tag": "Proizvodi",
+      "title": "Naši Proizvodi",
+      "subtitle": "Istražite naš široki asortiman vrhunskog bilja, začina i mješavina — pažljivo odabranih kako bi u svaku kuhinju donijeli autentične okuse.",
+      "button": "Istražite Sve Proizvode",
+      "herbs": "Bilje",
+      "spices": "Začini",
+      "curries": "Kari",
+      "shakers": "Posudice za začine",
+      "chillTins": "Posude za hlađenje",
+      "mealSolutions": "Rješenja za obroke"
+    },
+    "recipes": {
+      "tag": "Recepti",
+      "title": "Recepti za inspiraciju",
+      "subtitle": "Istražite kreativne načine kako koristiti naše proizvode",
+      "button": "Pregledajte Sve Recepte",
+      "tomatoRicottaPhylloTart": "Lisnata pita s rajčicom i ricottom",
+      "grilledYellowtailHerbs": "Grilana riba s biljem",
+      "asianCabbageSalad": "Azijska salata od kupusa"
     }
   },
   "links": {

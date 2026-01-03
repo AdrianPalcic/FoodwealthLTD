@@ -2,7 +2,6 @@ import { BRANDS } from "@/constants";
 import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
-import React from "react";
 
 const BrandsHero = () => {
   const t = useTranslations("homepage.brands");

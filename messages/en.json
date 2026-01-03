@@ -26,6 +26,27 @@
       "title": "Discover Our Brands",
       "paragraph": "Trusted names from around the world, carefully selected for quality and authenticity.",
       "button": "Explore All Brands"
+    },
+    "products": {
+      "tag": "Products",
+      "title": "Our Products",
+      "subtitle": "Explore our wide range of premium herbs, spices, and blends — carefully selected to bring authentic flavors to every kitchen.",
+      "button": "View All Products",
+      "herbs": "Herbs",
+      "spices": "Spices",
+      "curries": "Curries",
+      "shakers": "Shakers",
+      "chillTins": "Chill tins",
+      "mealSolutions": "Meal Solutions"
+    },
+    "recipes": {
+      "tag": "Recipes",
+      "title": "Recipes to Inspire",
+      "subtitle": "Explore creative ways to use our premium herbs and spices.",
+      "button": "Explore All Recipes",
+      "tomatoRicottaPhylloTart": "Tomato Ricotta Phyllo Tart",
+      "grilledYellowtailHerbs": "Grilled Yellowtail with Herbs",
+      "asianCabbageSalad": "Asian Cabbage Salad"
     }
   },
   "links": {
