@@ -1,6 +1,19 @@
 {
   "homepage": {
-    "title": "Hello FoodWealth"
+    "hero": {
+      "title1": "Bring the World of Flavours to Your Table",
+      "subtitle1": "Premium herbs and spices, carefully selected and distributed to bring authentic flavors to every kitchen.",
+      "cta1": "Explore our products",
+      "title2": "Boost your Spices collection",
+      "subtitle2": "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+      "cta2": "Explore our herb collection",
+      "title3": "Grow with confidence",
+      "subtitle3": "Let's start your project",
+      "cta3": "Explore our spices collection",
+      "title4": "Create Inspiring Meals Every Day",
+      "subtitle4": "Explore chef-style recipes that bring out the best in every dish.",
+      "cta4": "Explore our recipes"
+    }
   },
   "links": {
     "navbar": {

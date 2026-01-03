@@ -1,3 +1,5 @@
+import AboutHero from "@/components/AboutHero";
+import { EmblaCarousel } from "@/components/Hero";
 import { useTranslations } from "next-intl";
 
 export default function Home() {
@@ -5,9 +7,8 @@ export default function Home() {
 
   return (
     <main>
-      <h1 className="p-30 font-josefin">{t("title")}</h1>
-      <p>Ovo je test za 333 boju</p>
-      <button>Henlo</button>
+      <EmblaCarousel />
+      <AboutHero />
     </main>
   );
 }

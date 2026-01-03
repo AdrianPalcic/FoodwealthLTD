@@ -7,6 +7,7 @@
   /* COLORS */
   --bg-color: #f0f0f0;
   --accent-color: #a3b18a;
+  --accent-hover: #588157;
   --green-stroke-color: #588157;
   --text-color: #333;
   --secondary-color: #4b3526;
@@ -34,12 +35,10 @@
   }
   button {
     font-family: var(--font-josefin);
-    padding: 8px 25px;
+    padding: 8px 15px;
     font-size: 20px;
-    margin: 20px;
     border-radius: 6px;
     cursor: pointer;
-    transition: 0.3s ease-in-out;
   }
 }
 
@@ -49,5 +48,40 @@
   }
   .font-josefin {
     @apply font-josefin;
+  }
+
+  .embla {
+    overflow: hidden;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .embla__container {
+    display: flex;
+    width: 100%;
+  }
+  .embla__slide {
+    flex: 0 0 100%;
+    min-width: 0;
+    height: 80vh;
+  }
+  .embla_bg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .title {
+    @apply text-5xl uppercase font-bold;
+  }
+  .subtitle {
+    @apply text-xl;
+  }
+  .button-main {
+    @apply w-fit mt-4 text-white font-semibold duration-300 transition-colors bg-(--accent-color) hover:bg-(--accent-hover);
+  }
+  .text-tag {
+    @apply font-josefin text-(--accent-color) uppercase text-[14px] font-bold;
   }
 }

@@ -34,13 +34,12 @@ export default async function RootLayout({
   if (!hasLocale(routing.locales, locale)) {
     notFound();
   }
-  console.log(locale);
 
   return (
     <html lang={locale}>
       <body
         suppressHydrationWarning
-        className={`${josefin.className} ${inter.className} antialiased`}
+        className={`${josefin.variable} ${inter.variable} antialiased`}
       >
         <NextIntlClientProvider>
           <Navbar />

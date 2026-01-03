@@ -31,3 +31,30 @@ export const infoLinks = [
     path: "terms-and-conditions",
   },
 ];
+
+export const HERO_CONTENT = [
+  {
+    title: "hero.title1",
+    subtitle: "hero.subtitle1",
+    cta: "hero.cta1",
+    image: "/i1.jpg",
+  },
+  {
+    title: "hero.title2",
+    subtitle: "hero.subtitle2",
+    cta: "hero.cta2",
+    image: "/i2.jpg",
+  },
+  {
+    title: "hero.title3",
+    subtitle: "hero.subtitle3",
+    cta: "hero.cta3",
+    image: "/i3.jpg",
+  },
+  {
+    title: "hero.title4",
+    subtitle: "hero.subtitle4",
+    cta: "hero.cta4",
+    image: "/i9.png",
+  },
+];

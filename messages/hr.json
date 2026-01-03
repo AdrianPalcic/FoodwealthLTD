@@ -1,6 +1,22 @@
 {
   "homepage": {
-    "title": "Pozdrav FoodWealth"
+    "hero": {
+      "title1": "Donesite svijet okusa na svoj stol",
+      "subtitle1": "Premium začinsko bilje i začini, pažljivo odabrani i distribuirani kako bi unijeli autentične okuse u svaku kuhinju.",
+      "cta1": "Istražite naše proizvode",
+
+      "title2": "Podignite svoje poslovanje",
+      "subtitle2": "Premium sušeno bilje iz provjerenih uzgajališta diljem Mediterana i šire.",
+      "cta2": "Istražite našu kolekciju bilja",
+
+      "title3": "Rastite s povjerenjem",
+      "subtitle3": "Započnimo vaš projekt.",
+      "cta3": "Istražite našu kolekciju začina",
+
+      "title4": "Stvarajte inspirativna jela svaki dan",
+      "subtitle4": "Istražite recepte u stilu profesionalnih chefova i izvucite maksimum iz svakog jela.",
+      "cta4": "Istražite naše recepte"
+    }
   },
   "links": {
     "navbar": {
