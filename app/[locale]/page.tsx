@@ -1,5 +1,6 @@
 import AboutHero from "@/components/AboutHero";
 import BrandsHero from "@/components/BrandsHero";
+import ContactHero from "@/components/ContactHero";
 import { EmblaCarousel } from "@/components/Hero";
 import PartnersHero from "@/components/PartnersHero";
 import ProductCategoriesHero from "@/components/ProductCategoriesHero";
@@ -14,6 +15,7 @@ export default function Home() {
       <ProductCategoriesHero />
       <RecipesHero />
       <PartnersHero />
+      <ContactHero />
     </main>
   );
 }
