@@ -76,6 +76,29 @@
       "para1": "Founded in 2012, Foodwealth Ltd has become a trusted name in the production, importation, packaging, and distribution of premium herbs, spices, and culinary products throughout Southeastern Europe. Our mission is clear: to combine quality with authenticity, delivering flavors that inspire trust and elevate everyday cooking",
       "para2": "We serve a diverse range of partners including retailers, wholesalers, and foodservice providers across Greece, Bulgaria, and the Balkans. Our comprehensive approach ensures that whether you're stocking shelves, supplying restaurants, or creating menu innovations, you have access to products that meet the highest standards.",
       "para3": "Every product in our portfolio reflects our commitment to excellence. From careful sourcing and precise blending to professional packaging and reliable distribution, we bring authentic flavors and innovative products to kitchens everywhere in the region."
+    },
+    "values": {
+      "tag": "VALUES",
+      "title": "Our Core Values",
+      "subtitle": "The principles that drive our business and partnerships",
+      "value1": {
+        "tag": "CORE VALUE",
+        "title": "Premium Quality",
+        "subtitle": "We source, package, and distribute only the finest herbs and spices, ensuring every product meets rigorous quality standards that inspire trust in our partners."
+      },
+      "value2": {
+        "title": "Partner-Focused approach",
+        "subtitle": "Building lasting relationships with retailers, wholesalers, and foodservice providers across Southeastern Europe through reliability and excellence."
+      },
+      "value3": {
+        "title": "AUTHENTIC fLAVOURS",
+        "subtitle": "Our commitment to authentic flavors drives us to carefully select and blend products that honor culinary traditions while meeting modern demands."
+      },
+      "value4": {
+        "tag": "Regional Leadership",
+        "title": "Southeastern Europe Expertise",
+        "subtitle": "Deep understanding of the Southeastern European market enables us to deliver products perfectly suited to local tastes and preferences across Greece, Bulgaria, and the Balkans."
+      }
     }
   },
 

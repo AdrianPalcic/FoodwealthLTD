@@ -78,6 +78,29 @@
       "para1": "Osnovana 2012. godine, tvrtka Foodwealth d.o.o. postala je prepoznatljivo ime u proizvodnji, uvozu, pakiranju i distribuciji vrhunskih začina, bilja i kulinarskih proizvoda diljem jugoistočne Europe. Naša misija je jasna: spojiti kvalitetu i autentičnost, pružajući okuse koji inspiriraju povjerenje i podižu svakodnevno kuhanje na višu razinu.",
       "para2": "Surađujemo s raznolikim partnerima, uključujući maloprodajne trgovce, veletrgovce i ugostiteljske dobavljače u Grčkoj, Bugarskoj i na Balkanu. Naš sveobuhvatan pristup osigurava da, bilo da opskrbljujete police, opskrbljujete restorane ili razvijate inovativne jelovnike, imate pristup proizvodima koji zadovoljavaju najviše standarde.",
       "para3": "Svaki proizvod u našem portfelju odražava našu predanost izvrsnosti. Od pažljivog odabira i preciznog miješanja do profesionalnog pakiranja i pouzdane distribucije, donosimo autentične okuse i inovativne proizvode u kuhinje diljem regije."
+    },
+    "values": {
+      "tag": "VRIJEDNOSTI",
+      "title": "Naše temeljne vrijednosti",
+      "subtitle": "Načela koja vode naše poslovanje i partnerstva",
+      "value1": {
+        "tag": "TEMELJNA VRIJEDNOST",
+        "title": "Vrhunska kvaliteta",
+        "subtitle": "Pažljivo biramo, pakiramo i distribuiramo samo najkvalitetnije začine i bilje, osiguravajući da svaki proizvod zadovoljava stroge standarde koji ulijevaju povjerenje našim partnerima."
+      },
+      "value2": {
+        "title": "Fokus na partnere",
+        "subtitle": "Gradimo dugoročne odnose s maloprodajnim trgovcima, veletrgovcima i ugostiteljskim partnerima diljem jugoistočne Europe kroz pouzdanost i izvrsnost."
+      },
+      "value3": {
+        "title": "Autentični okusi",
+        "subtitle": "Naša predanost autentičnim okusima vodi nas u pažljivom odabiru i miješanju proizvoda koji poštuju kulinarsku tradiciju, a istovremeno odgovaraju suvremenim potrebama."
+      },
+      "value4": {
+        "tag": "REGIONALNO Vodstvo",
+        "title": "Stručnost za jugoistočnu Europu",
+        "subtitle": "Dubinsko poznavanje tržišta jugoistočne Europe omogućuje nam isporuku proizvoda savršeno prilagođenih lokalnim ukusima i preferencijama u Grčkoj, Bugarskoj i na Balkanu."
+      }
     }
   },
   "links": {
