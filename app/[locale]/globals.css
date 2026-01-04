@@ -52,6 +52,9 @@
   .font-josefin {
     @apply font-josefin;
   }
+  .add-color {
+    @apply bg-(--accent-color);
+  }
 
   .embla {
     overflow: hidden;
