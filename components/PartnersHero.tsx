@@ -10,7 +10,9 @@ const PartnersHero = () => {
       <div className="flex flex-col items-center">
         <p className="text-tag mb-2">{t("tag")}</p>
         <h1 className="title">{t("title")}</h1>
-        <h2 className="subtitle max-w-3xl text-center">{t("subtitle")}</h2>
+        <h2 className="subtitle max-w-3xl text-center text-(--text-color)">
+          {t("subtitle")}
+        </h2>
         <button className="button-main">{t("button")}</button>
       </div>
       <div className="flex flex-col items-center mt-10">

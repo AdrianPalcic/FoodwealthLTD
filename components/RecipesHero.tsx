@@ -7,14 +7,16 @@ const RecipesHero = () => {
   const t = useTranslations("homepage.recipes");
 
   return (
-    <section className="section-padding">
+    <section className="section-padding h-fit">
       <div className="flex flex-col items-center mb-4">
         <p className="text-tag mb-2">{t("tag")}</p>
-        <h1 className="title">{t("title")}</h1>
-        <h2 className="subtitle max-w-5xl">{t("subtitle")}</h2>
+        <h1 className="title text-center">{t("title")}</h1>
+        <h2 className="subtitle text-center max-w-5xl text-(--text-color)">
+          {t("subtitle")}
+        </h2>
         <button className="button-main mb-4">{t("button")}</button>
       </div>
-      <div className="flex gap-6 w-full flex-wrap">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-full ">
         {RECIPES.map((r) => (
           <div className="flex-1 cursor-pointer" key={r.key}>
             <div className="overflow-hidden ">

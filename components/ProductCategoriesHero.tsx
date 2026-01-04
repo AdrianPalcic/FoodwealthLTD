@@ -9,7 +9,9 @@ const ProductCategoriesHero = () => {
       <div className="flex flex-col items-center mb-4">
         <p className="text-tag mb-2">{t("tag")}</p>
         <h1 className="title">{t("title")}</h1>
-        <h2 className="subtitle max-w-5xl text-center">{t("subtitle")}</h2>
+        <h2 className="subtitle max-w-5xl text-center text-(--text-color)">
+          {t("subtitle")}
+        </h2>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-4">
