@@ -99,6 +99,31 @@
         "title": "Southeastern Europe Expertise",
         "subtitle": "Deep understanding of the Southeastern European market enables us to deliver products perfectly suited to local tastes and preferences across Greece, Bulgaria, and the Balkans."
       }
+    },
+    "journey": {
+      "tag": "Journey",
+      "title": "Our Journey",
+      "subtitle": "Growing alongside our partners across Southeastern Europe",
+      "journey1": {
+        "year": "2012",
+        "title": "The Foundation",
+        "subtitle": "Foodwealth Ltd was established with a vision to become the premier supplier of herbs, spices, and culinary products in Southeastern Europe."
+      },
+      "journey2": {
+        "year": "2015",
+        "title": "Market Expansion",
+        "subtitle": "Extended distribution network across Greece and Bulgaria, building strong partnerships with leading retailers and wholesalers."
+      },
+      "journey3": {
+        "year": "2018",
+        "title": "Product Innovation",
+        "subtitle": "Expanded our portfolio with innovative culinary products and premium packaging solutions to meet evolving market needs."
+      },
+      "journey4": {
+        "year": "2020",
+        "title": "Regional Leadership",
+        "subtitle": "Serving as a trusted partner throughout the Balkans, combining quality with authenticity to elevate everyday cooking across the region."
+      }
     }
   },
 

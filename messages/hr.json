@@ -101,6 +101,31 @@
         "title": "Stručnost za jugoistočnu Europu",
         "subtitle": "Dubinsko poznavanje tržišta jugoistočne Europe omogućuje nam isporuku proizvoda savršeno prilagođenih lokalnim ukusima i preferencijama u Grčkoj, Bugarskoj i na Balkanu."
       }
+    },
+    "journey": {
+      "tag": "NAŠ PUT",
+      "title": "Naša priča",
+      "subtitle": "Rastemo zajedno s našim partnerima diljem jugoistočne Europe",
+      "journey1": {
+        "year": "2012",
+        "title": "Početak",
+        "subtitle": "Osnovana je tvrtka Foodwealth d.o.o. s jasnom vizijom – postati vodeći dobavljač začina, bilja i kulinarskih proizvoda u jugoistočnoj Europi."
+      },
+      "journey2": {
+        "year": "2015",
+        "title": "Širenje tržišta",
+        "subtitle": "Proširili smo distribucijsku mrežu na Grčku i Bugarsku te izgradili snažna partnerstva s vodećim maloprodajnim i veleprodajnim lancima."
+      },
+      "journey3": {
+        "year": "2018",
+        "title": "Inovacije proizvoda",
+        "subtitle": "Proširili smo naš portfelj inovativnim kulinarskim proizvodima i vrhunskim rješenjima pakiranja kako bismo odgovorili na rastuće potrebe tržišta."
+      },
+      "journey4": {
+        "year": "2020",
+        "title": "Regionalno vodstvo",
+        "subtitle": "Postali smo pouzdan partner diljem Balkana, spajajući kvalitetu i autentičnost te podižući svakodnevno kuhanje u cijeloj regiji."
+      }
     }
   },
   "links": {
