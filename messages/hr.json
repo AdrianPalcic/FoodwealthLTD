@@ -126,6 +126,29 @@
         "title": "Regionalno vodstvo",
         "subtitle": "Postali smo pouzdan partner diljem Balkana, spajajući kvalitetu i autentičnost te podižući svakodnevno kuhanje u cijeloj regiji."
       }
+    },
+    "business": {
+      "tag": "POSLOVANJE",
+      "title": "Opskrbljujemo jugoistočnu Europu",
+      "subtitle": "Podrška maloprodajnim, veleprodajnim i ugostiteljskim partnerima diljem regije",
+      "support1": {
+        "title": "Maloprodaja",
+        "subtitle": "Dubinsko poznavanje tržišta jugoistočne Europe omogućuje nam isporuku proizvoda savršeno prilagođenih lokalnim okusima i preferencijama u Grčkoj, Bugarskoj i na Balkanu."
+      },
+      "support2": {
+        "title": "Veleprodaja",
+        "subtitle": "Rješenja za veleprodaju i fleksibilne distribucijske opcije prilagođene različitim potrebama partnera. Od manjih narudžbi do distribucije velikih razmjera – rastemo zajedno s vama."
+      },
+      "support3": {
+        "title": "Ugostiteljstvo",
+        "subtitle": "Pouzdana rješenja opskrbe prilagođena potrebama restorana, hotela i catering partnera, uz dosljednu kvalitetu, učinkovitost i pravovremenu isporuku."
+      }
+    },
+    "CTA": {
+      "title": "POSTANITE PARTNER FOODWEALTHA",
+      "subtitle": "Otkrijte kako naši vrhunski začini, bilje i kulinarski proizvodi mogu unaprijediti vaše poslovanje",
+      "button1": "Pogledajte katalog proizvoda",
+      "button2": "Kontaktirajte nas"
     }
   },
   "links": {

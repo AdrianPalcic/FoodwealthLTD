@@ -124,6 +124,29 @@
         "title": "Regional Leadership",
         "subtitle": "Serving as a trusted partner throughout the Balkans, combining quality with authenticity to elevate everyday cooking across the region."
       }
+    },
+    "business": {
+      "tag": "Business",
+      "title": "Serving Southeastern Europe",
+      "subtitle": "Supporting retail, wholesale, and foodservice partners across the region",
+      "support1": {
+        "title": "Retailers",
+        "subtitle": "Deep understanding of the Southeastern European market enables us to deliver products perfectly suited to local tastes and preferences across Greece, Bulgaria, and the Balkans."
+      },
+      "support2": {
+        "title": "wHOLEsALERS",
+        "subtitle": "Bulk solutions and flexible distribution options tailored to wholesale partners' diverse needs. From small orders to large-scale distribution, we scale with you."
+      },
+      "support3": {
+        "title": "Foodservice",
+        "subtitle": "Reliable supply solutions designed to meet the demands of restaurants, hotels, and catering partners, ensuring consistent quality, efficiency, and timely delivery."
+      }
+    },
+    "CTA": {
+      "title": "pARTNER WITH FOODwEALTH",
+      "subtitle": "Discover how our premium herbs, spices, and culinary products can enhance your business",
+      "button1": "View Product Catalog",
+      "button2": "Contact Us"
     }
   },
 

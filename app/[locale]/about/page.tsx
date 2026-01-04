@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Values from "./components/Values";
 import Journey from "./components/Journey";
+import Business from "./components/Business";
 
 const page = () => {
   const t = useTranslations("aboutpage.hero");
@@ -13,6 +14,7 @@ const page = () => {
       <About />
       <Values />
       <Journey />
+      <Business />
     </main>
   );
 };
