@@ -45,7 +45,7 @@ const Navbar = () => {
       <nav
         className={`
     fixed top-0 left-0
-    z-10
+    z-50
     h-dvh w-dvw
     bg-black
     transition-transform duration-300 ease-in-out
@@ -67,7 +67,7 @@ const Navbar = () => {
               className="h-full w-full object-cover"
             />
           </div>
-          <div className="flex-[0.1] sm:flex-[0.3] bg-(--accent-color) text-white">
+          <div className="flex-[0.1] sm:flex-[0.3] bg-(--accent-color) text-white z-50">
             <div className="flex flex-col justify-between h-full">
               <div className="py-6 px-6 flex gap-4 justify-end items-center font-josefin">
                 <MobileLocaleSwitcher />

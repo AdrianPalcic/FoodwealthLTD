@@ -67,6 +67,19 @@
       "button": "Pošalji"
     }
   },
+  "aboutpage": {
+    "hero": {
+      "tag": "O nama",
+      "title": "Svaki spoj s vrhunskom kvalitetom i autentičnim okusom",
+      "subtitle": "Od 2012. donosimo vrhunske začine, bilje i kulinarske proizvode u jugoistočnu Europu."
+    },
+    "aboutUs": {
+      "title": "Izvrsnost u začinima, bilju i kulinarskim proizvodima",
+      "para1": "Osnovana 2012. godine, tvrtka Foodwealth d.o.o. postala je prepoznatljivo ime u proizvodnji, uvozu, pakiranju i distribuciji vrhunskih začina, bilja i kulinarskih proizvoda diljem jugoistočne Europe. Naša misija je jasna: spojiti kvalitetu i autentičnost, pružajući okuse koji inspiriraju povjerenje i podižu svakodnevno kuhanje na višu razinu.",
+      "para2": "Surađujemo s raznolikim partnerima, uključujući maloprodajne trgovce, veletrgovce i ugostiteljske dobavljače u Grčkoj, Bugarskoj i na Balkanu. Naš sveobuhvatan pristup osigurava da, bilo da opskrbljujete police, opskrbljujete restorane ili razvijate inovativne jelovnike, imate pristup proizvodima koji zadovoljavaju najviše standarde.",
+      "para3": "Svaki proizvod u našem portfelju odražava našu predanost izvrsnosti. Od pažljivog odabira i preciznog miješanja do profesionalnog pakiranja i pouzdane distribucije, donosimo autentične okuse i inovativne proizvode u kuhinje diljem regije."
+    }
+  },
   "links": {
     "navbar": {
       "about": "O nama",

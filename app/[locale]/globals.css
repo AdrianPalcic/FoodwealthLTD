@@ -47,7 +47,7 @@
     @apply bg-white/50 rounded-md shadow shadow-black/30 font-semibold;
   }
   .section-padding {
-    @apply px-4 sm:px-16 my-30;
+    @apply px-4 sm:px-16 my-12 sm:my-30;
   }
   .font-josefin {
     @apply font-josefin;

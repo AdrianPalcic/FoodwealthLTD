@@ -64,6 +64,21 @@
       "button": "Send"
     }
   },
+
+  "aboutpage": {
+    "hero": {
+      "tag": "About Us",
+      "title": "Quality & Authenticity in Every Blend",
+      "subtitle": "Bringing premium herbs, spices, and culinary products to Southeastern Europe since 2012"
+    },
+    "aboutUs": {
+      "title": "Excellence in Herbs, Spices & Culinary Products",
+      "para1": "Founded in 2012, Foodwealth Ltd has become a trusted name in the production, importation, packaging, and distribution of premium herbs, spices, and culinary products throughout Southeastern Europe. Our mission is clear: to combine quality with authenticity, delivering flavors that inspire trust and elevate everyday cooking",
+      "para2": "We serve a diverse range of partners including retailers, wholesalers, and foodservice providers across Greece, Bulgaria, and the Balkans. Our comprehensive approach ensures that whether you're stocking shelves, supplying restaurants, or creating menu innovations, you have access to products that meet the highest standards.",
+      "para3": "Every product in our portfolio reflects our commitment to excellence. From careful sourcing and precise blending to professional packaging and reliable distribution, we bring authentic flavors and innovative products to kitchens everywhere in the region."
+    }
+  },
+
   "links": {
     "navbar": {
       "about": "About Us",
