@@ -6,11 +6,11 @@ const Form = () => {
   const t = useTranslations("contactpage.contactform");
 
   return (
-    <div className="bg-white py-12 px-4 sm:px-6 rounded-xl">
+    <div className="bg-white py-6 sm:py-12 px-4 sm:px-6 rounded-xl">
       <h2 className="text-2xl font-bold uppercase mb-2">{t("title")}</h2>
       <h3 className="subtitle mb-10">{t("subtitle")}</h3>
       <form className="flex flex-col gap-6">
-        <div className="flex justify-between w-full gap-4">
+        <div className="flex flex-col md:flex-row justify-between w-full gap-4">
           <div className="flex flex-col gap-2 flex-1">
             <label htmlFor="name" className="font-inter">
               {t("name")}
@@ -32,7 +32,7 @@ const Form = () => {
             />
           </div>
         </div>
-        <div className="flex justify-between w-full gap-4">
+        <div className="flex flex-col md:flex-row justify-between w-full gap-4">
           <div className="flex flex-col gap-2 flex-1">
             <label htmlFor="company" className="font-inter">
               {t("companyname")}
@@ -70,7 +70,7 @@ const Form = () => {
           <label htmlFor="message">{t("message")}</label>
           <textarea
             id="message"
-            className="border border-[#D0D0D0] bg-[#EFEFEF] rounded-lg py-2 px-2"
+            className="border border-[#D0D0D0] bg-[#EFEFEF] rounded-lg py-2 px-2 min-h-[200px]"
             placeholder={t("placeholder")}
           ></textarea>
         </div>

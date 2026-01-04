@@ -8,7 +8,7 @@ const Contact = () => {
 
   return (
     <section className="section-padding">
-      <div className="w-full flex justify-center ">
+      <div className="w-full flex flex-col lg:flex-row justify-center gap-4">
         <div className="flex-1">
           <h1 className="title">{t("title")}</h1>
           <h2 className="subtitle">{t("subtitle")}</h2>
