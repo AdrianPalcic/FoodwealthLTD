@@ -54,6 +54,14 @@
       "title": "Our Partners",
       "subtitle": "Trusted retailers, wholesalers, and foodservice providers across Southeastern Europe.",
       "button": "Become A Partner"
+    },
+    "contact": {
+      "greenTitle": "Contact Us",
+      "Street": "Petra Kružića 6, Senj",
+      "title": "Get In Touch",
+      "placeholder1": "Your Name",
+      "placeholder2": "Message",
+      "button": "Send"
     }
   },
   "links": {

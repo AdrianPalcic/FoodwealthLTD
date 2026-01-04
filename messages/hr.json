@@ -57,6 +57,14 @@
       "title": "Naši partneri",
       "subtitle": "Pouzdani trgovci, veleprodaje i pružatelji ugostiteljskih usluga diljem jugoistočne Europe.",
       "button": "Postanite partner"
+    },
+    "contact": {
+      "greenTitle": "Kontaktirajte nas",
+      "Street": "Petra Kružića 6, Senj",
+      "title": "Javite nam se",
+      "placeholder1": "Vaše ime",
+      "placeholder2": "Poruka",
+      "button": "Pošalji"
     }
   },
   "links": {
