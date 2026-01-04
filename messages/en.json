@@ -44,9 +44,16 @@
       "title": "Recipes to Inspire",
       "subtitle": "Explore creative ways to use our premium herbs and spices.",
       "button": "Explore All Recipes",
+      "recipe-button": "See How",
       "tomatoRicottaPhylloTart": "Tomato Ricotta Phyllo Tart",
       "grilledYellowtailHerbs": "Grilled Yellowtail with Herbs",
       "asianCabbageSalad": "Asian Cabbage Salad"
+    },
+    "partners": {
+      "tag": "Partners",
+      "title": "Our Partners",
+      "subtitle": "Trusted retailers, wholesalers, and foodservice providers across Southeastern Europe.",
+      "button": "Become A Partner"
     }
   },
   "links": {

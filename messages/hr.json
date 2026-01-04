@@ -47,9 +47,16 @@
       "title": "Recepti za inspiraciju",
       "subtitle": "Istražite kreativne načine kako koristiti naše proizvode",
       "button": "Pregledajte Sve Recepte",
+      "recipe-button": "Pogledajte Kako",
       "tomatoRicottaPhylloTart": "Lisnata pita s rajčicom i ricottom",
       "grilledYellowtailHerbs": "Grilana riba s biljem",
       "asianCabbageSalad": "Azijska salata od kupusa"
+    },
+    "partners": {
+      "tag": "Partneri",
+      "title": "Naši partneri",
+      "subtitle": "Pouzdani trgovci, veleprodaje i pružatelji ugostiteljskih usluga diljem jugoistočne Europe.",
+      "button": "Postanite partner"
     }
   },
   "links": {

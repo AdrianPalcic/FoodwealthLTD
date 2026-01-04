@@ -8,7 +8,7 @@ const RecipesHero = () => {
 
   return (
     <section className="section-padding">
-      <div>
+      <div className="flex flex-col items-center mb-4">
         <p className="text-tag mb-2">{t("tag")}</p>
         <h1 className="title">{t("title")}</h1>
         <h2 className="subtitle max-w-5xl">{t("subtitle")}</h2>
@@ -16,15 +16,22 @@ const RecipesHero = () => {
       </div>
       <div className="flex gap-6 w-full flex-wrap">
         {RECIPES.map((r) => (
-          <div className="flex-1" key={r.key}>
-            <Image
-              src={r.img}
-              width={300}
-              height={300}
-              alt="Recipe"
-              className="w-full h-full"
-            />
+          <div className="flex-1 cursor-pointer" key={r.key}>
+            <div className="overflow-hidden ">
+              <Image
+                src={r.img}
+                width={300}
+                height={300}
+                alt="Recipe"
+                className="w-full h-full duration-300 transition-transform hover:scale-[1.1]"
+              />
+            </div>
             <h3 className="text-2xl mt-3">{t(r.key)}</h3>
+            <ul className="flex gap-2">
+              <li>Spice 1,</li>
+              <li>Spice 2</li>
+            </ul>
+            <button className="button-main">{t("recipe-button")}</button>
           </div>
         ))}
       </div>
