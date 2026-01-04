@@ -6,7 +6,7 @@ const Hero = () => {
 
   return (
     <section className=" text-white ">
-      <div className="w-full h-[80vh] bg-[url('/i14.png')] bg-cover bg-center relative flex flex-col justify-center items-center">
+      <div className="w-full h-[80vh] bg-[url('/i14.png')] bg-cover bg-center relative flex flex-col justify-center items-center px-4">
         <div className="absolute w-full h-full inset-0 bg-black/30"></div>
         <div className="text-white z-10 flex flex-col items-center">
           <p className="font-josefin uppercase text-white mb-4">{t("tag")}</p>

@@ -5,6 +5,7 @@ import About from "./components/About";
 import Values from "./components/Values";
 import Journey from "./components/Journey";
 import Business from "./components/Business";
+import CTA from "./components/CTA";
 
 const page = () => {
   const t = useTranslations("aboutpage.hero");
@@ -15,6 +16,7 @@ const page = () => {
       <Values />
       <Journey />
       <Business />
+      <CTA />
     </main>
   );
 };
