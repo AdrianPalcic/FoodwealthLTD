@@ -20,15 +20,17 @@ const Navbar = () => {
             src="/logo.svg"
             alt="FoodWealth Logo"
             className="mix-blend-darken"
-            width={100}
-            height={100}
+            width={70}
+            height={70}
           />
         </Link>
         <div className="hidden absolute md:flex md:static items-center gap-12 ">
           <ul className="flex gap-6">
             {pageLinks.map((link) => (
               <Link key={link.key} href={`/${link.path}`}>
-                <li className="font-josefin text-[18px]">{t(link.key)}</li>
+                <li className="font-josefin text-[18px] duration-200 transition-colors hover:text-(--accent-color)">
+                  {t(link.key)}
+                </li>
               </Link>
             ))}
           </ul>

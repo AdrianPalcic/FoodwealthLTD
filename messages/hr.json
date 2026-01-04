@@ -151,6 +151,48 @@
       "button2": "Kontaktirajte nas"
     }
   },
+  "contactpage": {
+    "hero": {
+      "tag": "Kontaktirajte nas",
+      "title": "Razgovarajmo o okusima",
+      "subtitle": "Postanite partner pouzdanog dobavljača vrhunskih začina, bilja i kulinarskih proizvoda u jugoistočnoj Europi."
+    },
+    "contactinfo": {
+      "title": "Kontakt Informacije",
+      "subtitle": "Bilo da ste maloprodaja, veleprodaja ili ugostiteljski partner, tu smo da podržimo vaše poslovanje vrhunskim proizvodima i pouzdanom uslugom.",
+      "info1": {
+        "title": "Telefon",
+        "workhours": "Pon-Pet, 9:00 - 18:00 EET"
+      },
+      "info2": {
+        "respondtime": "Odgovaramo unutar 24h"
+      },
+      "info3": {
+        "title": "Sjedište",
+        "location": "Atena, Grčka",
+        "serving": "Radimo na području Grčke, Bugarske i Balkana"
+      },
+      "info4": {
+        "title": "Radni Sati",
+        "sub1": "Ponedjeljak - Petak: 9:00 - 18:00",
+        "sub2": "Subota: 10:00 - 14:00",
+        "sub3": "Nedjelja: Zatvoreno"
+      }
+    },
+    "contactform": {
+      "title": "Pošaljite nam poruku",
+      "subtitle": "Ispunite donji obrazac i javit ćemo vam se u roku jednog radnog dana.",
+      "name": "Ime i prezime",
+      "email": "Email adresa",
+      "companyname": "Naziv tvrtke",
+      "phone": "Broj telefona",
+      "business": "Vrsta poslovanja",
+      "message": "Vaša poruka",
+      "placeholder": "Recite nam o svojim potrebama, proizvodima od interesa ili postavite bilo kakvo pitanje...",
+      "radio": "Slažem se s obradom svojih osobnih podataka i da me Foodwealth d.o.o. kontaktira u vezi mog upita.",
+      "button": "Pošalji poruku"
+    }
+  },
   "links": {
     "navbar": {
       "about": "O nama",

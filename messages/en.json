@@ -149,6 +149,48 @@
       "button2": "Contact Us"
     }
   },
+  "contactpage": {
+    "hero": {
+      "tag": "Get in Touch",
+      "title": "Let’s Talk flavours",
+      "subtitle": "Partner with Southeastern Europe's trusted supplier of premium herbs, spices, and culinary products."
+    },
+    "contactinfo": {
+      "title": "Contact information",
+      "subtitle": "Whether you're a retailer, wholesaler, or foodservice provider, we're here to support your business with premium products and reliable service.",
+      "info1": {
+        "title": "Phone",
+        "workhours": "Mon-Fri, 9:00 AM - 6:00 PM EET"
+      },
+      "info2": {
+        "respondtime": "We respond within 24 hours"
+      },
+      "info3": {
+        "title": "Headquarters",
+        "location": "Athens, Greece",
+        "serving": "Serving Greece, Bulgaria & the Balkans"
+      },
+      "info4": {
+        "title": "Business Hours",
+        "sub1": "Monday - Friday: 9:00 AM - 6:00 PM",
+        "sub2": "Saturday: 10:00 AM - 2:00 PM",
+        "sub3": "Sunday: Closed"
+      }
+    },
+    "contactform": {
+      "title": "Send Us A Message",
+      "subtitle": "Fill out the form below and we'll get back to you within one business day.",
+      "name": "Full Name",
+      "email": "Email Address",
+      "companyname": "Company Name",
+      "phone": "Phone Number",
+      "business": "Business Type",
+      "message": "Your Message",
+      "placeholder": "Tell us about your needs, products of interest, or any question you have...",
+      "radio": "I agree to the processing of my personal data and consent to be contacted by Foodwealth Ltd regarding my inquiry.",
+      "button": "Send Message"
+    }
+  },
 
   "links": {
     "navbar": {
