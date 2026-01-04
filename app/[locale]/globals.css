@@ -79,13 +79,13 @@
     background-position: center;
   }
   .title {
-    @apply text-5xl uppercase font-bold;
+    @apply text-3xl md:text-5xl uppercase font-bold;
   }
   .subtitle {
     @apply text-xl;
   }
   .button-main {
-    @apply w-fit mt-4 text-white font-semibold duration-300 transition-colors bg-(--accent-color) hover:bg-(--accent-hover);
+    @apply text-[16px] sm:text-[18px] w-fit mt-4 text-white font-semibold duration-300 transition-colors bg-(--accent-color) hover:bg-(--accent-hover);
   }
   .text-tag {
     @apply font-josefin text-(--accent-color) uppercase text-[14px] font-bold;

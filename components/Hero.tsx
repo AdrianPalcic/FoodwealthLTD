@@ -17,14 +17,14 @@ export function EmblaCarousel() {
         {HERO_CONTENT.map((item, i) => (
           <div
             key={i}
-            className="embla__slide relative flex flex-col justify-end py-20 px-10 h-[500px] bg-cover bg-center"
+            className="embla__slide relative flex flex-col justify-center sm:justify-end py-20 px-4 sm:px-10 h-[500px] bg-cover bg-center"
             style={{ backgroundImage: `url(${item.image})` }}
           >
             {/* Overlay za zatamnjenje */}
             <div className="absolute inset-0 bg-black/50"></div>
 
             {/* Content */}
-            <div className="relative z-10 max-w-3xl text-white">
+            <div className="relative z-10 max-w-full sm:max-w-3xl text-white text-center sm:text-left ">
               <h1 className="title py-3 text-4xl md:text-5xl font-bold text-white">
                 {t(item.title)}
               </h1>
