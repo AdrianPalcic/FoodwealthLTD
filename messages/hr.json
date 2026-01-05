@@ -193,6 +193,14 @@
       "button": "Pošalji poruku"
     }
   },
+  "productcategoriespage": {
+    "hero": {
+      "tag": "Kategorija Proizvoda",
+      "title": "Naš asortiman proizvoda",
+      "subtitle": "Vrhunski kulinarski proizvodi, pažljivo odabrani i stručno."
+    }
+  },
+
   "links": {
     "navbar": {
       "about": "O nama",

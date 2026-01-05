@@ -91,6 +91,6 @@
     @apply font-josefin text-(--accent-color) uppercase text-[14px] font-bold;
   }
   .divider {
-    @apply bg-(--accent-color) w-[2px] h-[100px];
+    @apply bg-(--accent-color) w-0.5 h-[100px];
   }
 }

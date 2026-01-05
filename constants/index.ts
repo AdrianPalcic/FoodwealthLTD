@@ -73,12 +73,92 @@ export const BRANDS = [
 ];
 
 export const PRODUCTS = [
-  { img: "/i1.jpg", key: "herbs", link: "herbs" },
-  { img: "/i2.jpg", key: "spices", link: "spices" },
-  { img: "/i3.jpg", key: "curries", link: "curries" },
-  { img: "/i4.jpg", key: "shakers", link: "shakers" },
-  { img: "/i5.jpg", key: "chillTins", link: "chill-tins" },
-  { img: "/i6.jpg", key: "mealSolutions", link: "meal-solutions" },
+  {
+    img: "/i1.jpg",
+    key: "herbs",
+    link: "herbs",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
+  {
+    img: "/i2.jpg",
+    key: "spices",
+    link: "spices",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
+  {
+    img: "/i3.jpg",
+    key: "curries",
+    link: "curries",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
+  {
+    img: "/i4.jpg",
+    key: "shakers",
+    link: "shakers",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
+  {
+    img: "/i5.jpg",
+    key: "chillTins",
+    link: "chill-tins",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
+  {
+    img: "/i6.jpg",
+    key: "mealSolutions",
+    link: "meal-solutions",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
+];
+export const ADDPRODUCTS = [
+  {
+    img: "/i1.jpg",
+    key: "herbs",
+    link: "herbs",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
+  {
+    img: "/i2.jpg",
+    key: "spices",
+    link: "spices",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
+  {
+    img: "/i3.jpg",
+    key: "curries",
+    link: "curries",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
+  {
+    img: "/i4.jpg",
+    key: "shakers",
+    link: "shakers",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
+  {
+    img: "/i5.jpg",
+    key: "chill Tins",
+    link: "chill-tins",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
+  {
+    img: "/i6.jpg",
+    key: "meal Solutions",
+    link: "meal-solutions",
+    desc: "Premium dried herbs sourced from trusted growers across the Mediterranean and beyond",
+    additionalProducts: ["Basil, Oregano, Thyme, Rosemary, Mint, Parsley"],
+  },
 ];
 
 export const RECIPES = [

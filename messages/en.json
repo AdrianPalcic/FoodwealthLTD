@@ -191,6 +191,13 @@
       "button": "Send Message"
     }
   },
+  "productcategoriespage": {
+    "hero": {
+      "tag": "Product Categories",
+      "title": "Our Product Range",
+      "subtitle": "Premium culinary products, carefully sourced and expertly crafted."
+    }
+  },
 
   "links": {
     "navbar": {
