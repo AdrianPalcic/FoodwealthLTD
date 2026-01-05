@@ -208,6 +208,14 @@
       "button2": "Inspirirajte se"
     }
   },
+  "productcategorypage": {
+    "hero": {
+      "tag": "Kategorija Proizvoda"
+    },
+    "subcategorycard": {
+      "button": "Detaljnije"
+    }
+  },
 
   "links": {
     "navbar": {

@@ -1,24 +1,26 @@
 import { notFound } from "next/navigation";
 import { ADDPRODUCTS } from "@/constants";
 import Hero from "./components/Hero";
+import SubcategoryListing from "./components/SubcategoryListing";
+import GlobalCTA from "@/components/GlobalCTA";
 
 export async function generateStaticParams() {
   return ADDPRODUCTS.map((p) => ({
-    product: p.key,
+    category: p.key,
   }));
 }
 
 interface PageProps {
   params: {
-    product: string;
+    category: string;
   };
 }
 
 const ProductPage = async ({ params }: PageProps) => {
-  const { product } = await params;
-  console.log(product);
+  const { category } = await params;
+  console.log(category);
 
-  const productCategory = ADDPRODUCTS.find((p) => p.link === product);
+  const productCategory = ADDPRODUCTS.find((p) => p.link === category);
 
   if (!productCategory) return notFound();
 
@@ -29,6 +31,8 @@ const ProductPage = async ({ params }: PageProps) => {
         description={productCategory.desc}
         img={productCategory.img}
       />
+      <SubcategoryListing />
+      <GlobalCTA />
     </main>
   );
 };

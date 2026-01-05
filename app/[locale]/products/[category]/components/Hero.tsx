@@ -1,3 +1,4 @@
+import { useTranslations } from "next-intl";
 import React from "react";
 
 const Hero = ({
@@ -9,6 +10,8 @@ const Hero = ({
   description: string;
   img: string;
 }) => {
+  const t = useTranslations("productcategorypage.hero");
+
   return (
     <div className="flex flex-col md:flex-row w-full h-[80vh] bg-(--accent-color) relative">
       <img
@@ -19,7 +22,7 @@ const Hero = ({
       <div className="absolute inset-0 w-full h-full z-2 bg-black/40 block md:hidden"></div>
       <div className="flex-1 md:flex-[0.3] flex flex-col items-start justify-center px-4 sm:px-10 z-10">
         <p className="text-lg text-white uppercase font-bold font-josefin mb-2">
-          Product Category
+          {t("tag")}
         </p>
         <h1 className="title text-white mb-4">{title}</h1>
         <h2 className="subtitle text-white">{description}</h2>

@@ -206,6 +206,14 @@
       "button2": "Explore Recipes"
     }
   },
+  "productcategorypage": {
+    "hero": {
+      "tag": "Product Category"
+    },
+    "subcategorycard": {
+      "button": "View Details"
+    }
+  },
 
   "links": {
     "navbar": {
