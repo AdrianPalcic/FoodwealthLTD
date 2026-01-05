@@ -214,6 +214,16 @@
       "button": "View Details"
     }
   },
+  "recipepage": {
+    "hero": {
+      "tag": "Recipes",
+      "title": "Cook with Flavour",
+      "subtitle": "Discover tasty recipes using our premium spices and herbs."
+    },
+    "recipelisting": {
+      "placeholder": "Search by product recipe name, products or category..."
+    }
+  },
 
   "links": {
     "navbar": {

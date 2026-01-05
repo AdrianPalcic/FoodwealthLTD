@@ -216,6 +216,16 @@
       "button": "Detaljnije"
     }
   },
+  "recipepage": {
+    "hero": {
+      "tag": "Recepti",
+      "title": "Kuhaj s okusom",
+      "subtitle": "Otkrij ukusne recepte s našim začinima i biljem."
+    },
+    "recipelisting": {
+      "placeholder": "Pretraži po nazivu recepta, proizvodu ili kategoriji..."
+    }
+  },
 
   "links": {
     "navbar": {
