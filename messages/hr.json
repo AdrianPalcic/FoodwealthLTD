@@ -230,7 +230,18 @@
   "subcategorypage": {
     "available": "Dostupnih Proizvoda",
     "placeholder": "Pretraži naše proizvode...",
-    "button": "Detaljnije"
+    "button": "Detaljnije",
+    "whyus": {
+      "title": "Zašto odabrati nas?",
+      "subtitle": "Iskusite razliku koju kvaliteta, održivost i strast čine u svakom proizvodu.",
+      "title2": "Jamčimo premium kvalitetu",
+      "subtitle2": "Svaki začin prolazi rigorozna testiranja i kontrolu kvalitete. Ručno odabrani u vrhunskoj svježini, iz najboljih svjetskih vrtova začina, i dostavljeni izravno u vašu kuhinju.",
+      "title3": "Jamčimo svježinu",
+      "subtitle3": "Obrada u malim serijama osigurava maksimalan okus i aromu u svakom pakiranju.",
+      "title4": "Prirodno i odgovorno",
+      "subtitle4": "Naši proizvodi dolaze iz održivih izvora, poštujući prirodu i lokalne zajednice.",
+      "leadingbrand": "Pogledajte naš vodeći brend"
+    }
   },
 
   "links": {
