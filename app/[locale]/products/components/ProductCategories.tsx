@@ -13,7 +13,7 @@ const ProductCategories = () => {
             <Link
               key={product.key}
               className={`flex justify-end items-end py-4 px-2 sm:px-6  min-h-80 sm:min-h-124 rounded-xl col-span-4 sm:col-span-2 relative group cursor-pointer overflow-hidden`}
-              href={`/${product.link}`}
+              href={`/products/${product.link}`}
             >
               <img
                 src={product.img}

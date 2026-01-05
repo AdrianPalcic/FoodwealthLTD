@@ -47,7 +47,7 @@ const Navbar = () => {
       <nav
         className={`
     fixed top-0 left-0
-    z-50
+    z-100
     h-dvh w-dvw
     bg-black
     transition-transform duration-300 ease-in-out
