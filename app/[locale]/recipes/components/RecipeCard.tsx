@@ -1,8 +1,11 @@
 import { Link } from "@/i18n/navigation";
 import { Clock, User } from "lucide-react";
+import { useTranslations } from "next-intl";
 import React from "react";
 
 const RecipeCard = () => {
+  const t = useTranslations("recipepage.recipelisting");
+
   return (
     <div className="bg-white w-full h-full rounded-lg">
       <div className="h-[220px] sm:h-[300px] w-full">
@@ -52,7 +55,7 @@ const RecipeCard = () => {
           ))}
         </div>
         <Link href="/recipes/recipe" className="w-full">
-          <button className="button-main ">View Recipe</button>
+          <button className="button-main ">{t("button")}</button>
         </Link>
       </div>
     </div>

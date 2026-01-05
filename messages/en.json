@@ -211,7 +211,7 @@
       "tag": "Product Category"
     },
     "subcategorycard": {
-      "button": "View Details"
+      "button": "View All"
     }
   },
   "recipepage": {
@@ -221,8 +221,14 @@
       "subtitle": "Discover tasty recipes using our premium spices and herbs."
     },
     "recipelisting": {
-      "placeholder": "Search by product recipe name, products or category..."
+      "placeholder": "Search by product recipe name, products or category...",
+      "button": "View Recipe"
     }
+  },
+  "subcategorypage": {
+    "available": "Products Available",
+    "placeholder": "Search our products...",
+    "button": "View Product"
   },
 
   "links": {
