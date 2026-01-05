@@ -198,6 +198,14 @@
       "tag": "Kategorija Proizvoda",
       "title": "Naš asortiman proizvoda",
       "subtitle": "Vrhunski kulinarski proizvodi, pažljivo odabrani i stručno."
+    },
+    "categories": {
+      "title1": "Istražite naše ostale brendove?",
+      "subtitle1": "Pogledajte raznovrsne brendove koje nudimo i otkrijte proizvode koji vas mogu inspirirati.",
+      "button1": "Pogledajte",
+      "title2": "Trebate ideje za recepte?",
+      "subtitle2": "Pronađite inspiraciju za ukusna jela koristeći naše recepte i savjete za kuhanje.",
+      "button2": "Inspirirajte se"
     }
   },
 
@@ -213,5 +221,10 @@
       "policy": "Politika Privatnosti",
       "cookies": "Kolačići"
     }
+  },
+  "globalCTA": {
+    "title": "Izgradimo snažna partnerstva okusa",
+    "subtitle": "Kontaktirajte naš prodajni tim za specifikacije proizvoda, veleprodajne cijene, opcije prilagođenog pakiranja ili za razgovor o vašim posebnim zahtjevima.",
+    "button": "Javite nam se"
   }
 }

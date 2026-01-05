@@ -1,8 +1,10 @@
-"use client";
 import { ADDPRODUCTS } from "@/constants";
 import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 
 const ProductCategories = () => {
+  const t = useTranslations("productcategoriespage.categories");
+
   return (
     <section className="section-padding">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -41,26 +43,22 @@ const ProductCategories = () => {
             ></img>
             <div className="z-2 absolute inset-0 w-full h-full bg-[#4B3526]/40 duration-300 transition-colors rounded-xl" />
             <div className="z-10">
-              <h1 className="title text-white">
-                Interested in our other brands?
-              </h1>
+              <h1 className="title text-white">{t("title1")}</h1>
               <h2 className=" text-white mb-4 font-regular text-lg">
-                Complete seasoning kits that simplify cooking without
-                compromising on taste
+                {t("subtitle1")}
               </h2>
-              <button className="button-main mt-2!">Explore more</button>
+              <button className="button-main mt-2!"> {t("button1")}</button>
             </div>
           </div>
           <div className="bg-(--accent-color) col-span-4 sm:col-span-1 rounded-xl py-12 px-2 sm:px-4">
             <h1 className="title text-white md:text-4xl! mb-5">
-              Need Recipe ideas?
+              {t("title2")}
             </h1>
             <h2 className=" text-white mb-4 font-regular text-lg">
-              Need something specific? We offer custom blending, private
-              labeling, and tailored packaging solutions for our B2B partners.
+              {t("subtitle2")}
             </h2>
             <button className="bg-white text-(--accent-color) duration-700 transition-colors hover:bg-black hover:text-white">
-              Explore Recipes
+              {t("button2")}
             </button>
           </div>
         </>

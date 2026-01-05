@@ -196,6 +196,14 @@
       "tag": "Product Categories",
       "title": "Our Product Range",
       "subtitle": "Premium culinary products, carefully sourced and expertly crafted."
+    },
+    "categories": {
+      "title1": "Interested in our other brands?",
+      "subtitle1": "Explore the diverse brands we offer and discover products that can inspire you.",
+      "button1": "Explore more",
+      "title2": "Need Recipe ideas?",
+      "subtitle2": "Find inspiration for delicious dishes with our recipes and cooking tips.",
+      "button2": "Explore Recipes"
     }
   },
 
@@ -211,5 +219,10 @@
       "policy": "Privacy Policy",
       "cookies": "Cookies"
     }
+  },
+  "globalCTA": {
+    "title": "Let’s Build Strong Flavour Partnerships",
+    "subtitle": "Contact our sales team for product specifications, bulk pricing, custom packaging options, or to discuss your specific requirements.",
+    "button": "Get In Touch"
   }
 }
