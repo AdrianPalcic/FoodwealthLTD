@@ -1,3 +1,4 @@
+import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 import React from "react";
 
@@ -12,12 +13,16 @@ const CTA = () => {
           {t("subtitle")}
         </h2>
         <div className="flex flex-col sm:flex-row justify-center gap-6">
-          <button className="text-black bg-white duration-300 transition-colors hover:bg-white/80">
-            {t("button1")}
-          </button>
-          <button className="text-white border border-white duration-300 transition-colors hover:text-black hover:bg-white">
-            {t("button2")}
-          </button>
+          <Link href="/products">
+            <button className="text-black bg-white duration-300 transition-colors hover:bg-white/80">
+              {t("button1")}
+            </button>
+          </Link>
+          <Link href="/contact">
+            <button className="text-white border border-white duration-300 transition-colors hover:text-black hover:bg-white">
+              {t("button2")}
+            </button>
+          </Link>
         </div>
       </div>
     </section>

@@ -1,3 +1,4 @@
+import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 import React from "react";
 
@@ -20,7 +21,9 @@ const AboutHero = () => {
             <br />
             <p>{t("paragraph-2")}</p>
           </div>
-          <button className="button-main">{t("button")}</button>
+          <Link href="/about">
+            <button className="button-main">{t("button")}</button>
+          </Link>
         </div>
       </div>
     </section>

@@ -1,3 +1,4 @@
+import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import React from "react";
@@ -13,7 +14,9 @@ const PartnersHero = () => {
         <h2 className="subtitle max-w-3xl text-center text-(--text-color)">
           {t("subtitle")}
         </h2>
-        <button className="button-main">{t("button")}</button>
+        <Link href="/contact">
+          <button className="button-main">{t("button")}</button>
+        </Link>
       </div>
       <div className="flex flex-col items-center mt-10">
         <Image src={"/brand-vector.svg"} alt="partner" width={80} height={80} />

@@ -1,4 +1,5 @@
 import { RECIPES } from "@/constants";
+import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import React from "react";
@@ -33,7 +34,9 @@ const RecipesHero = () => {
               <li>Spice 1,</li>
               <li>Spice 2</li>
             </ul>
-            <button className="button-main">{t("recipe-button")}</button>
+            <Link href={`/recipes/${r.link}`}>
+              <button className="button-main">{t("recipe-button")}</button>
+            </Link>
           </div>
         ))}
       </div>

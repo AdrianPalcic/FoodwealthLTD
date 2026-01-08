@@ -4,6 +4,7 @@ import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
 import { HERO_CONTENT } from "@/constants";
 import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 
 export function EmblaCarousel() {
   const [emblaRef] = useEmblaCarousel({ loop: true }, [
@@ -31,9 +32,11 @@ export function EmblaCarousel() {
               <h2 className="subtitle text-lg md:text-xl text-white">
                 {t(item.subtitle)}
               </h2>
-              <button className="button-main mt-5 px-6 py-3 rounded-lg bg-accent hover:bg-accent/80 transition">
-                {t(item.cta)}
-              </button>
+              <Link href="/products">
+                <button className="button-main mt-5 px-6 py-3 rounded-lg bg-accent hover:bg-accent/80 transition">
+                  {t(item.cta)}
+                </button>
+              </Link>
             </div>
           </div>
         ))}

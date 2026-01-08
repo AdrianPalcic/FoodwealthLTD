@@ -23,7 +23,9 @@ const BrandsHero = () => {
               </Link>
             ))}
           </div>
-          <button className="button-main">{t("button")}</button>
+          <Link href="/brands">
+            <button className="button-main">{t("button")}</button>
+          </Link>
         </div>
       </div>
     </section>

@@ -18,7 +18,7 @@ const ProductCategoriesHero = () => {
         {PRODUCTS.map((prod) => (
           <Link
             key={prod.key}
-            href={`/${prod.link}`}
+            href={`/products/${prod.link}`}
             className="relative block"
           >
             <div className="h-full w-full overflow-hidden">
@@ -39,7 +39,9 @@ const ProductCategoriesHero = () => {
         ))}
       </div>
       <div className="flex justify-center">
-        <button className="button-main">{t("button")}</button>
+        <Link href="/products">
+          <button className="button-main">{t("button")}</button>
+        </Link>
       </div>
     </section>
   );
