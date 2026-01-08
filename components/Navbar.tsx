@@ -77,7 +77,11 @@ const Navbar = () => {
               </div>
               <ul className="flex flex-col items-end px-6 py-6  gap-6">
                 {pageLinks.map((link) => (
-                  <Link key={link.key} href={`/${link.path}`}>
+                  <Link
+                    key={link.key}
+                    href={`/${link.path}`}
+                    onClick={() => setIsOpen(!isOpen)}
+                  >
                     <li className="font-josefin sm:text-3xl text-2xl duration-300 transition-colors hover:text-(--accent-hover)">
                       {t(link.key)}
                     </li>
