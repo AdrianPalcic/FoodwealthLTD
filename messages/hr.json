@@ -60,7 +60,7 @@
     },
     "contact": {
       "greenTitle": "Kontaktirajte nas",
-      "Street": "Petra Kružića 6, Senj",
+      "Street": "Avlonas, Grčka",
       "title": "Javite nam se",
       "placeholder1": "Vaše ime",
       "placeholder2": "Poruka",
@@ -162,21 +162,20 @@
       "subtitle": "Bilo da ste maloprodaja, veleprodaja ili ugostiteljski partner, tu smo da podržimo vaše poslovanje vrhunskim proizvodima i pouzdanom uslugom.",
       "info1": {
         "title": "Telefon",
-        "workhours": "Pon-Pet, 9:00 - 18:00 EET"
+        "workhours": "Pon-Pet, 9:00 - 17:30 EET"
       },
       "info2": {
-        "respondtime": "Odgovaramo unutar 24h"
+        "respondtime": "Nastojimo odgovoriti na sve upite unutar 48h"
       },
       "info3": {
         "title": "Sjedište",
-        "location": "Atena, Grčka",
-        "serving": "Radimo na području Grčke, Bugarske i Balkana"
+        "location": "Avlonas, Grčka",
+        "serving": "Poslužujemo jugoistočnu Europu i Cipar po grčkom vremenu"
       },
       "info4": {
         "title": "Radni Sati",
-        "sub1": "Ponedjeljak - Petak: 9:00 - 18:00",
-        "sub2": "Subota: 10:00 - 14:00",
-        "sub3": "Nedjelja: Zatvoreno"
+        "sub1": "Ponedjeljak - Petak: 9:00 - 17:30",
+        "sub3": "Subota,Nedjelja: Zatvoreno"
       }
     },
     "contactform": {

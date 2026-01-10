@@ -57,7 +57,7 @@
     },
     "contact": {
       "greenTitle": "Contact Us",
-      "Street": "Petra Kružića 6, Senj",
+      "Street": "Avlonas, Greece",
       "title": "Get In Touch",
       "placeholder1": "Your Name",
       "placeholder2": "Message",
@@ -160,21 +160,20 @@
       "subtitle": "Whether you're a retailer, wholesaler, or foodservice provider, we're here to support your business with premium products and reliable service.",
       "info1": {
         "title": "Phone",
-        "workhours": "Mon-Fri, 9:00 AM - 6:00 PM EET"
+        "workhours": "Mon-Fri, 9:00 AM - 5:30 PM EET"
       },
       "info2": {
-        "respondtime": "We respond within 24 hours"
+        "respondtime": "We aim to respond to all enquiries within 48 hours."
       },
       "info3": {
         "title": "Headquarters",
-        "location": "Athens, Greece",
-        "serving": "Serving Greece, Bulgaria & the Balkans"
+        "location": "Avlonas, Greece",
+        "serving": "Serving Southeast Europe and Cyprus Greece time"
       },
       "info4": {
         "title": "Business Hours",
-        "sub1": "Monday - Friday: 9:00 AM - 6:00 PM",
-        "sub2": "Saturday: 10:00 AM - 2:00 PM",
-        "sub3": "Sunday: Closed"
+        "sub1": "Monday - Friday: 9:00 AM - 5:30 PM",
+        "sub3": "Saturday, Sunday: Closed"
       }
     },
     "contactform": {

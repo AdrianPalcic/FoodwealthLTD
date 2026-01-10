@@ -22,9 +22,9 @@ const Contact = () => {
                 <p className="text-lg">{t("info1.title")}</p>
                 <a
                   className="font-inter text-(--text-color)"
-                  href="tel:+385957482199"
+                  href="tel:+302295041870"
                 >
-                  +385 95 748 2199
+                  +30 22950 41870
                 </a>
                 <p>{t("info1.workhours")}</p>
               </div>
@@ -39,7 +39,7 @@ const Contact = () => {
                   className="font-inter text-(--text-color)"
                   href="mail:adrian.palcic@gmail.com"
                 >
-                  mail@example.com
+                  contactus@foodwealth.gr
                 </a>
                 <p>{t("info2.respondtime")}</p>
               </div>
@@ -61,7 +61,6 @@ const Contact = () => {
               <div>
                 <p className="text-lg">{t("info4.title")}</p>
                 <p>{t("info4.sub1")}</p>
-                <p>{t("info4.sub2")}</p>
                 <p>{t("info4.sub3")}</p>
               </div>
             </div>

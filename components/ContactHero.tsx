@@ -19,12 +19,14 @@ const ContactHero = () => {
 
               <li className="flex items-center gap-4">
                 <span>📞</span>
-                <span>+30 0000 000</span>
+                <a href="tel:+302295041870">+30 22950 41870</a>
               </li>
 
               <li className="flex items-center gap-4">
                 <span>✉️</span>
-                <span>mail@example.com</span>
+                <a href="mail:contactus@foodwealth.gr">
+                  contactus@foodwealth.gr
+                </a>
               </li>
             </ul>
           </div>
@@ -72,12 +74,14 @@ const ContactHero = () => {
 
               <li className="flex items-center gap-4">
                 <span>📞</span>
-                <span>+30 0000 000</span>
+                <a href="tel:+302295041870">+30 22950 41870</a>
               </li>
 
               <li className="flex items-center gap-4">
                 <span>✉️</span>
-                <span>mail@example.com</span>
+                <a href="mail:contactus@foodwealth.gr">
+                  contactus@foodwealth.gr
+                </a>
               </li>
             </ul>
           </div>

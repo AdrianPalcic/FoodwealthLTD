@@ -1,11 +1,10 @@
 import { Link } from "@/i18n/navigation";
 import { ArrowRight } from "lucide-react";
 import { useTranslations } from "next-intl";
-import React from "react";
 
 const ProductCard = () => {
   const t = useTranslations("subcategorypage");
-  const items = ["China", "Medium", "Organic"];
+  const items = ["Halal", "Parave", "Vegan"];
 
   const colors = [
     "bg-(--secondary-color)",
