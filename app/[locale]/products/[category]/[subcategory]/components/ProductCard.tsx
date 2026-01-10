@@ -14,7 +14,7 @@ const ProductCard = () => {
 
   return (
     <div className="bg-white w-full h-full rounded-lg">
-      <div className="h-40 sm:h-[300px] w-full">
+      <div className=" h-[200px] sm:h-[300px] w-full">
         <img
           src="/i1.jpg"
           alt="Subcategory"

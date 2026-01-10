@@ -1,6 +1,5 @@
 import { Search } from "lucide-react";
 import { useTranslations } from "next-intl";
-import React from "react";
 import ProductCard from "./ProductCard";
 import Filters from "./Filters";
 
@@ -26,7 +25,7 @@ const ProductListing = ({ subcategory }: { subcategory: string }) => {
         <Filters />
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 w-full">
-          {Array.from({ length: 6 }).map((item, idx) => (
+          {Array.from({ length: 6 }).map((_item, idx) => (
             <ProductCard key={idx} />
           ))}
         </div>

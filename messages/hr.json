@@ -260,6 +260,13 @@
       }
     }
   },
+  "productpage": {
+    "stats": {
+      "stat1": "Sastojci",
+      "stat2": "Alergeni",
+      "stat3": "Savjeti za posluživanje"
+    }
+  },
 
   "links": {
     "navbar": {

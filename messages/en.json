@@ -258,6 +258,13 @@
       }
     }
   },
+  "productpage": {
+    "stats": {
+      "stat1": "Ingridients",
+      "stat2": "Alergens",
+      "stat3": "Serving tips"
+    }
+  },
 
   "links": {
     "navbar": {
