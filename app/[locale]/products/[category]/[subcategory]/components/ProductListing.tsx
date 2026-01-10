@@ -18,7 +18,7 @@ const ProductListing = ({ subcategory }: { subcategory: string }) => {
           <input
             type="text"
             placeholder={t("placeholder")}
-            className="w-full lg:w-[50%] py-3 pl-12 pr-3 border border-black/50 rounded-xl text-black font-inter text-lg"
+            className="w-full lg:w-[50%] py-3 pl-12 pr-3 border border-black/50 rounded-xl text-black font-inter text-[16px] sm:text-lg"
           />
           <Search className="absolute top-9 left-2 text-[#777777]" />
         </div>
