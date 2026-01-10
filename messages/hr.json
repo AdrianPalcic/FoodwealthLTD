@@ -240,6 +240,24 @@
       "title4": "Prirodno i odgovorno",
       "subtitle4": "Naši proizvodi dolaze iz održivih izvora, poštujući prirodu i lokalne zajednice.",
       "leadingbrand": "Pogledajte naš vodeći brend"
+    },
+    "filters": {
+      "filter": "Filteri",
+
+      "byname": {
+        "default": "Ime A–Z",
+        "reverse": "Ime Z–A"
+      },
+
+      "dietary": {
+        "default": "Prehrambeni standardi",
+        "halal": "Halal",
+        "parave": "Parave",
+        "vegan": "Vegansko",
+        "vegetarian": "Vegetarijansko",
+        "gluten_free": "Bez glutena",
+        "organic": "Ekološko"
+      }
     }
   },
 

@@ -47,7 +47,9 @@ const ProductCategories = () => {
               <h2 className=" text-white mb-4 font-regular text-lg">
                 {t("subtitle1")}
               </h2>
-              <button className="button-main mt-2!"> {t("button1")}</button>
+              <Link href="/brands">
+                <button className="button-main mt-2!"> {t("button1")}</button>
+              </Link>
             </div>
           </div>
           <div className="bg-(--accent-color) col-span-4 sm:col-span-1 rounded-xl py-12 px-2 sm:px-4">
@@ -57,9 +59,11 @@ const ProductCategories = () => {
             <h2 className=" text-white mb-4 font-regular text-lg">
               {t("subtitle2")}
             </h2>
-            <button className="bg-white text-(--accent-color) duration-700 transition-colors hover:bg-black hover:text-white">
-              {t("button2")}
-            </button>
+            <Link href="/recipes">
+              <button className="bg-white text-(--accent-color) duration-700 transition-colors hover:bg-black hover:text-white">
+                {t("button2")}
+              </button>
+            </Link>
           </div>
         </>
       </div>

@@ -1,9 +1,5 @@
-import { Link } from "@/i18n/navigation";
-import { ArrowRight, Search } from "lucide-react";
-import { useTranslations } from "next-intl";
 import { notFound } from "next/navigation";
-import React from "react";
-import ProductCard from "./components/ProductCard";
+
 import ProductListing from "./components/ProductListing";
 import WhyUs from "./components/WhyUs";
 import LeadingBrand from "./components/LeadingBrand";

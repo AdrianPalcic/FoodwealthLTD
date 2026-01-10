@@ -238,6 +238,24 @@
       "title4": "Sustainably Sourced",
       "subtitle4": "Our products come from sustainable sources, respecting nature and local communities.",
       "leadingbrand": "Explore our leading brand"
+    },
+    "filters": {
+      "filter": "Filters",
+
+      "byname": {
+        "default": "Name A–Z",
+        "reverse": "Name Z–A"
+      },
+
+      "dietary": {
+        "default": "Dietary standards",
+        "halal": "Halal",
+        "parave": "Parave",
+        "vegan": "Vegan",
+        "vegetarian": "Vegetarian",
+        "gluten_free": "Gluten-free",
+        "organic": "Organic"
+      }
     }
   },
 
