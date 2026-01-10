@@ -283,5 +283,15 @@
     "title": "Let’s Build Strong Flavour Partnerships",
     "subtitle": "Contact our sales team for product specifications, bulk pricing, custom packaging options, or to discuss your specific requirements.",
     "button": "Get In Touch"
+  },
+  "footer": {
+    "description": "Premium herbs and spices connecting people through flavors.",
+    "title1": "Quick Links",
+    "title2": "Information",
+    "title3": "Contact Info",
+    "title4": "Subscribe to our newsletter",
+    "button": "Subscribe",
+    "socials": "Follow us on social media",
+    "rights": "All rights reserved."
   }
 }
